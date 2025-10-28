@@ -42,3 +42,5 @@ pip install ttkbootstrap psutil
 Lance le programme :
 
 python ports_monitor.py
+
+<img width="499" height="415" alt="image" src="https://github.com/user-attachments/assets/9bec3e44-807b-41f8-9ec1-5c1d7971e1d8" />
